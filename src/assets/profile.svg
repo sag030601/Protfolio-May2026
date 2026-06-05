@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="400" y2="400">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="100" y1="280" x2="300" y2="400">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <circle cx="200" cy="155" r="72" fill="#fcd9b6"/>
+  <ellipse cx="200" cy="340" rx="130" ry="90" fill="url(#shirt)"/>
+  <ellipse cx="200" cy="130" rx="78" ry="70" fill="#1a1a2e"/>
+  <circle cx="200" cy="160" r="58" fill="#fcd9b6"/>
+  <ellipse cx="175" cy="155" rx="8" ry="10" fill="#1a1a2e"/>
+  <ellipse cx="225" cy="155" rx="8" ry="10" fill="#1a1a2e"/>
+  <path d="M185 175 Q200 188 215 175" stroke="#c4956a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="200" y="380" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="18" font-weight="600" opacity="0.9">SS</text>
+</svg>

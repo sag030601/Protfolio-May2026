@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="#0f172a"/>
+  <rect x="40" y="40" width="560" height="280" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+  <rect x="60" y="60" width="120" height="240" rx="8" fill="#334155"/>
+  <rect x="200" y="60" width="380" height="40" rx="6" fill="#10b981" opacity="0.8"/>
+  <rect x="200" y="120" width="280" height="16" rx="4" fill="#475569"/>
+  <rect x="200" y="148" width="340" height="16" rx="4" fill="#475569"/>
+  <rect x="200" y="176" width="220" height="16" rx="4" fill="#475569"/>
+  <rect x="200" y="220" width="160" height="36" rx="6" fill="#10b981"/>
+  <text x="320" y="330" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="14">Enterprise CMS</text>
+</svg>

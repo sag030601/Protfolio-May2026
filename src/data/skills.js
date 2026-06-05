@@ -1,0 +1,33 @@
+export const skillCategories = [
+  { id: 'all', label: 'All' },
+  { id: 'frontend', label: 'Frontend' },
+  { id: 'backend', label: 'Backend' },
+  { id: 'database', label: 'Database' },
+  { id: 'devops', label: 'DevOps' },
+  { id: 'gis', label: 'GIS & Geospatial' },
+  { id: 'tools', label: 'Tools' },
+];
+
+export const skills = [
+  { name: 'React.js', category: 'frontend', level: 90 },
+  { name: 'Next.js', category: 'frontend', level: 85 },
+  { name: 'JavaScript', category: 'frontend', level: 92 },
+  { name: 'TypeScript', category: 'frontend', level: 80 },
+  { name: 'Node.js', category: 'backend', level: 90 },
+  { name: 'Express.js', category: 'backend', level: 88 },
+  { name: 'PHP', category: 'backend', level: 82 },
+  { name: 'Laravel', category: 'backend', level: 85 },
+  { name: 'REST APIs', category: 'backend', level: 92 },
+  { name: 'RBAC', category: 'backend', level: 88 },
+  { name: 'System Design', category: 'backend', level: 80 },
+  { name: 'MongoDB', category: 'database', level: 85 },
+  { name: 'PostgreSQL', category: 'database', level: 88 },
+  { name: 'MySQL', category: 'database', level: 90 },
+  { name: 'Redis', category: 'database', level: 82 },
+  { name: 'Docker', category: 'devops', level: 78 },
+  { name: 'Apache', category: 'devops', level: 80 },
+  { name: 'Nginx', category: 'devops', level: 82 },
+  { name: 'GeoServer', category: 'gis', level: 85 },
+  { name: 'GIS', category: 'gis', level: 83 },
+  { name: 'Git', category: 'tools', level: 90 },
+];
