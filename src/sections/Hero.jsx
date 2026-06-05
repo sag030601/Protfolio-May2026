@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin } from 'react-icons/fa6';
 import { HiArrowDownTray, HiEnvelope } from 'react-icons/hi2';
-import profileImage from '../assets/profile.svg';
+import profileImage from '../assets/profile.jpeg';
 import { contactInfo } from '../data/contact';
 
 const floatingVariants = {
@@ -73,8 +73,7 @@ export default function Hero() {
             >
               <a
                 href={contactInfo.resume}
-                target="_blank"
-                rel="noopener noreferrer"
+                download="Sagar_Singh_Resume.pdf"
                 className="inline-flex items-center gap-2 rounded-lg bg-emerald-500 px-5 py-2.5 text-sm font-semibold text-white shadow-md shadow-emerald-500/20 transition-all hover:bg-emerald-600 hover:shadow-lg"
               >
                 <HiArrowDownTray className="h-4 w-4" />

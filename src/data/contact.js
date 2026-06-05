@@ -1,10 +1,10 @@
 export const contactInfo = {
   name: 'Sagar Singh',
   title: 'Full Stack Developer',
-  email: 'sagar.singh.dev@gmail.com',
-  linkedin: 'https://linkedin.com/in/sagarsingh',
-  github: 'https://github.com/sagarsingh',
-  resume: '/resume.html',
+  email: 'sagarsingh030601@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/sagar-singh-88208a1b0/',
+  github: 'https://github.com/sag030601',
+  resume: '/resume.pdf',
 };
 
 export const navLinks = [
