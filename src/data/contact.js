@@ -19,8 +19,8 @@ export const navLinks = [
 
 export const achievements = [
   { value: 2, suffix: '+', label: 'Years Experience', decimals: 0 },
-  { value: 10, suffix: '+', label: 'Production Projects', decimals: 0 },
-  { value: 5, suffix: '+', label: 'Enterprise Apps Delivered', decimals: 0 },
-  { value: 15, suffix: '+', label: 'API Integrations', decimals: 0 },
+  { value: 11, suffix: '+', label: 'Production Projects', decimals: 0 },
+  { value: 6, suffix: '+', label: 'Enterprise Apps Delivered', decimals: 0 },
+  { value: 18, suffix: '+', label: 'API Integrations', decimals: 0 },
   { value: 3, suffix: '+', label: 'GIS Solutions Implemented', decimals: 0 },
 ];

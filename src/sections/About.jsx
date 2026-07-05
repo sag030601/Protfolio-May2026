@@ -4,8 +4,10 @@ import { HiCheckCircle } from 'react-icons/hi2';
 
 const highlights = [
   '2+ years delivering end-to-end web solutions',
+  'Production e-commerce with Stripe integration',
   'Government and enterprise project experience',
   'Full application lifecycle ownership',
+  'Inventory & order management systems',
   'Backend architecture & system design',
   'Database architecture & optimization',
   'Role-Based Access Control (RBAC)',
@@ -34,9 +36,10 @@ export default function About() {
               architecture to deployment and maintenance.
             </p>
             <p className="mt-3 text-sm leading-relaxed text-slate-600 dark:text-slate-300 sm:text-base">
-              My work spans CMS platforms, HRMS &amp; payroll systems, and geospatial mapping
-              solutions. I specialize in designing secure RBAC systems, robust REST APIs, and
-              scalable database architectures that perform under real-world load.
+              My work spans e-commerce platforms, CMS systems, HRMS &amp; payroll solutions, and
+              geospatial mapping tools. I specialize in designing secure RBAC systems, payment
+              integrations, robust REST APIs, and scalable database architectures that perform
+              under real-world load.
             </p>
           </motion.div>
 

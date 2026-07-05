@@ -8,6 +8,7 @@ const timeline = [
     company: 'Enterprise & Government Projects',
     highlights: [
       'End-to-end solution delivery across full SDLC',
+      'Built production e-commerce platform with Stripe payments & inventory management',
       'Government sector CMS and portal development',
       'HRMS systems with payroll automation',
       'GeoServer integrations for GIS mapping',
@@ -17,6 +18,9 @@ const timeline = [
 ];
 
 const tags = [
+  'E-Commerce',
+  'Stripe Payments',
+  'Inventory Management',
   'CMS Platforms',
   'HRMS Systems',
   'Payroll Automation',

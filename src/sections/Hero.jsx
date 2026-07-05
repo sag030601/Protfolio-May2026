@@ -60,9 +60,9 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.3 }}
               className="mt-4 max-w-xl text-sm leading-relaxed text-slate-600 dark:text-slate-400 sm:text-base"
             >
-              I architect and ship production-grade web applications — from enterprise CMS
-              platforms and HRMS systems to geospatial mapping solutions. Focused on clean
-              code, scalable backends, and measurable business impact.
+              I architect and ship production-grade web applications — from enterprise e-commerce
+              platforms with Stripe payments to CMS systems, HRMS solutions, and geospatial mapping
+              tools. Focused on clean code, scalable backends, and measurable business impact.
             </motion.p>
 
             <motion.div
